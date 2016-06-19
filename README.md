@@ -20,3 +20,23 @@ The board looks like that :
 
 <img src="template/meta/brd.png" width=400>
 
+## D1 as component
+You can also use the D1 mini as a module of a bigger kicad PCB project.
+
+### for eeschema
+`library/wemos_mini.lib` can be used as a component in your design.
+
+<img src="work/img/screenshot2.jpg" width=200>
+
+To add it :
+* Preferences
+* Components libraries
+* add
+* find the wemos_mini.lib file
+
+### for pcbnew
+
+`library/wemos_d1_mini.pretty` contains a footprint of the D1 module for your PCB.
+
+Warning: Work In Progress
+
