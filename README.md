@@ -28,15 +28,21 @@ You can also use the D1 mini as a module of a bigger kicad PCB project.
 
 <img src="work/img/screenshot2.jpg" width=200>
 
-To add it :
+To add it to eeschema :
 * Preferences
 * Components libraries
 * add
-* find the wemos_mini.lib file
+* navigate to the wemos_mini.lib file
 
 ### for pcbnew
 
 `library/wemos_d1_mini.pretty` contains a footprint of the D1 module for your PCB.
 
-Warning: Work In Progress
+<img src="work/img/screenshot3.jpg" width=200>
 
+To add it to pcbnew :
+* Preferences
+* Footprint library manager
+* Project Specific Libraries
+* Append with Wizard
+* navigate to wemos_d1_mini.pretty
