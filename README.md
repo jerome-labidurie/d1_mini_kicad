@@ -9,7 +9,7 @@ To create a new shield for the D1 mini.
 * copy (or link) it to your user template directory
  * on linux : `~/kicad/template/`
  * on windows : `C:\Program Files\KiCad\share\kicad\template`
- * on OSX : ???
+ * on MacOS/OSX : `/Users/<USERNAME>/Documents/template`
 * rename it as you want eg: `D1_mini_Shield`
 
 With kicad, create a new project from template.
