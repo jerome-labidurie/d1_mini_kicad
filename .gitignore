@@ -9,6 +9,8 @@
 *~
 _autosave-*
 *.tmp
+*-backups
+*.lck
 
 # Autorouter files (exported from Pcbnew)
 .dsn
